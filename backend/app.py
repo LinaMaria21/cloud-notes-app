@@ -43,6 +43,7 @@ def lambda_handler(event, context):
                 return response(200, {"message": "Deleted"})
             return response(405, {"message": "Method not allowed"})
 
+        
         if path == '/notes':
             if http_method == 'POST':
                 title = body.get('title', 'Untitled')
