@@ -1,3 +1,3 @@
 # cloud-notes-app
 
-Cloud Notes  app
+Cloud Notes app
