@@ -1,3 +1,3 @@
 # cloud-Notes-App
-Notes app 
-for notes organization 
+Cloud Notes app 
+For notes organization 
