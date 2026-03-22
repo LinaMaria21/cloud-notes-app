@@ -1,2 +1,2 @@
-Cloud Notes App 
-Cloud-based application designed to help students organize and manage their notes efficiently. It allows users to access their notes from anywhere while keeping everything structured in one place. It is especially useful for students who want to track and manage their grades.
+
+This Cloud-based application is designed to help students organize and manage their notes efficiently. It allows users to access their notes from anywhere while keeping everything structured in one place. It is especially useful for students who want to track and manage their grades.
