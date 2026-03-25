@@ -1,2 +1,1 @@
-
-This Cloud-based application is designed to help students organize and manage their notes efficiently. It allows users to access their notes from anywhere while keeping everything structured in one place. It is especially useful for students who want to track and manage their grades.
+This cloud-based application helps students efficiently organize and manage their notes in one place. It enables access from anywhere while maintaining a structured system, making it especially useful for tracking and managing grades.
