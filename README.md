@@ -1,6 +1,7 @@
 Cloud-based app
 
-Helps students keep all their notes in one place because it makes easier to stay organized and manage school work without losing important information.
+
+This app helps students keep all their notes in one place because it makes easier to stay organized and manage school work without losing important information.
 
 Features
 All Notes in One Place
