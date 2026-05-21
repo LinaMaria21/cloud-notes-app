@@ -3,7 +3,7 @@ Cloud-based app
 Helps students keep all their notes in one place because it makes easier to stay organized and manage school work without losing important information.
 
 Features
-All Notes in One Place
+All Notes in one Place
 Save and organize the notes by subject or topic so you can find them easily.
 Access Anywhere
 Use the app on any device, anytime, as long as you have internet.
