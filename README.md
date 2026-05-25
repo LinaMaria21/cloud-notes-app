@@ -1,6 +1,6 @@
 Cloud-based app
 
-It hekoa students keep all their notes in one place because it makes easier to stay organized and manage school work without losing important information.
+It helps students to keep all their notes in one place because it makes easier to stay organized and manage school work without losing important information.
 
 Features:
 All Notes in one Place
