@@ -8,7 +8,7 @@ Access Anywhere
 Use the app on any device, anytime, as long as you have internet.
 Simple Organization
 
-Keep the notes neat and easy to follow with a clear system.
+you can keep the notes neat and easy to follow with a clear system.
 Track Your Grades
 Keep an eye on your grades, assignments, and progress.
 Easy to Use
