@@ -1,4 +1,4 @@
-Cloud-based app
+Cloud based app
  Students keep all their notes in one place because it makes easier to stay organized and manage school work without losing important information.
 
 Features:
