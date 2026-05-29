@@ -17,4 +17,5 @@ The app is simple and clear, so you can focus on studying.
 Purpose
 
 The goal of this app is
-to help students stay organized and save time. It brings notes and grade tracking together in one simple tool.
+to help students stay organized 
+and save time. It brings notes and grade tracking together in one simple tool.
