@@ -4,7 +4,7 @@ Cloud based app
 Features 
 
 All Notes in one Place
-Save and organize the notes of your school by subject or topic so you can find them easily.
+Save and organize the notes by subject or topic so you can find them easily.
 Access Anywhere
 Use the app on any device, anytime, as long as you have internet.
 Simple Organization
