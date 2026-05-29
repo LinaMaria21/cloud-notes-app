@@ -10,7 +10,7 @@ Simple Organization
 
 You can keep the notes neat and easy to follow with a clear system.
 Track Your Grades
-Keep an eye on your grades, assignments, and progress.
+Keep an eye on your grades and progress.
 Easy to Use
 The app is simple and clear, so you can focus on studying.
 Purpose
