@@ -5,7 +5,7 @@ Features
 All Notes in one Place
 Save and organize the notes by subject or topic so you can find them easily.
 Access anywhere
-Use the app on any device, anytime, as long as you have internet.
+Use the app on any device, anytime, you just need to have internet.
 Simple Organization
 
 You can keep the notes neat and easy to follow with a clear system.
