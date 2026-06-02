@@ -23,3 +23,4 @@ The goal of this app is to help students stay organized
 and save time because it brings notes and grade tracking together in one simple tool.
 
 #AWS
+#Cloud
