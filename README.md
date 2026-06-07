@@ -1,5 +1,5 @@
 Cloud app
-Welcome to Cloud Notes!
+
 
 This app is designed to help you save, organize, 
 and access all your notes in one secured cloud based platform.
