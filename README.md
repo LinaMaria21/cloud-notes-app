@@ -4,7 +4,7 @@ Designed to help you save, organize,
 and access all your notes in one secured cloud based platform.
 
 
-Students keep all their notes in one place because it makes easier to stay organized and manage school work without losing important information.
+Students keep all their notes in one place, makes easier to stay organized and manage school work without losing important information.
 
 Features 
 
