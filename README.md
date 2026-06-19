@@ -6,9 +6,10 @@ Designed to help you save, organize, and access all your notes in one secured cl
 
 Students keep all their notes in one place, makes easier to stay organized and manage school work without losing important information.
 
-Features 
+Featureañs
 
-All Notes in one place
+You can keep all your
+ Notes in one place
 Save and organize the notes by subject or topic so you can find them easily.
 Access anywhere
 You can use the app on any device, anytime, you just need to have internet.
