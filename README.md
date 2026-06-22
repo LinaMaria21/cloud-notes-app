@@ -12,7 +12,6 @@ Access anywhere
 You can use the app on any device, anytime, you just need to have internet.
 Simple Organization
 
-
 You can keep the notes neat and easy to follow with a clear system.
 Track Your Grades
 Keep an eye on your grades and progress.
