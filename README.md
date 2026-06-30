@@ -1,7 +1,8 @@
 
 Cloud app
 
-Designed to help you save, organize, 
+Designed to help you save, 
+organize, 
 
 and access all your notes in one secured cloud based platform.
 
