@@ -1,7 +1,6 @@
 
 Cloud app
 
-
 Designed to help you save, 
 
 organize, 
