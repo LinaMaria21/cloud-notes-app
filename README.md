@@ -1,3 +1,4 @@
+<img width="1037" height="1017" alt="Screenshot 2026-07-14 141129" src="https://github.com/user-attachments/assets/cc565477-d40d-49b9-b694-060762828f71" />
 # Cloud Notes App
 
 A serverless REST API for creating, retrieving, and deleting notes, built on AWS using a fully serverless architecture with Infrastructure as Code.
