@@ -1,0 +1,55 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: Cloud Notes App - Serverless CRUD API
+
+Globals:
+  Function:
+    Timeout: 10
+    Runtime: python3.12
+
+Resources:
+  NotesFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: backend/
+      Handler: app.lambda_handler
+      Environment:
+        Variables:
+          TABLE_NAME: !Ref NotesTable
+      Policies:
+        - DynamoDBCrudPolicy:
+            TableName: !Ref NotesTable
+      Events:
+        GetNotes:
+          Type: Api
+          Properties:
+            Path: /notes
+            Method: GET
+        CreateNote:
+          Type: Api
+          Properties:
+            Path: /notes
+            Method: POST
+        GetNote:
+          Type: Api
+          Properties:
+            Path: /notes/{id}
+            Method: GET
+        DeleteNote:
+          Type: Api
+          Properties:
+            Path: /notes/{id}
+            Method: DELETE
+
+  NotesTable:
+    Type: AWS::Serverless::SimpleTable
+    Properties:
+      TableName: NotesTable
+      PrimaryKey:
+        Name: noteId
+        Type: String
+
+Outputs:
+  ApiUrl:
+    Description: API Gateway endpoint
+    Value: !Sub "https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/"
