@@ -1,3 +1,5 @@
+http://lina-cloud-notes-frontend.s3-website-us-east-1.amazonaws.com/
+
 <img width="1037" height="1017" alt="Screenshot 2026-07-14 141129" src="https://github.com/user-attachments/assets/cc565477-d40d-49b9-b694-060762828f71" />
 # Cloud Notes App
 
