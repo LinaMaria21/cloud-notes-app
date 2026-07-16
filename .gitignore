@@ -1,4 +1,10 @@
 .aws-sam/
 __pycache__/
 *.pyc
-samconfig.toml
+samconfig.tomlterraform/.terraform/
+terraform/build/
+*.tfstate
+*.tfstate.backup
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
