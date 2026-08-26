@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cloud Notes App</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <h1>Cloud Notes</h1>
+
+  <input id="title" placeholder="Title">
+
+  <textarea
+    id="content"
+    placeholder="Write your note..."
+    rows="4">
+  </textarea>
+
+  <button onclick="addNote()">Save Note</button>
+
+  <h2>Your Notes</h2>
+
+  <div id="notes"></div>
+
+  <script src="app.js"></script>
+
+</body>
+</html>
