@@ -6,7 +6,7 @@ import boto3
 
 TABLE_NAME = os.environ.get('TABLE_NAME', 'NotesTable')
 dynamodb = boto3.resource('dynamodb')
-table = dynamodb.Table(TABLE)
+table = dynamodb.Table()
 
 def response(status_code, body):
     return {
