@@ -3,9 +3,10 @@ import os
 import uuid
 import boto3
 
+
 TABLE_NAME = os.environ.get('TABLE_NAME', 'NotesTable')
 dynamodb = boto3.resource('dynamodb')
-table = dynamodb.Table(TABLE_NAME)
+table = dynamodb.Table(TABLE)
 
 def response(status_code, body):
     return {
